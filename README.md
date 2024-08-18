@@ -12,7 +12,7 @@ This project demonstrates deploying a Swisstronik contract and upgrading it usin
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/dante4rt/swisstronik-deploy-proxy.git
+git clone https://github.com/web3bustler/swisstronik-deploy-proxy.git
 cd swisstronik-deploy-proxy
 ```
 
@@ -37,7 +37,3 @@ The `proxy.sh` script performs the following actions:
 9. Creates deployment and interaction scripts (`deploy.js`, `setMessage.js`, `getMessage.js`).
 10. Deploys the contract.
 11. Runs the scripts to set and get the message.
-
-## Done!
-
-Enjoy working with Swisstronik and be sure to subscribe to [Happy Cuan Airdrop](https://t.me/HappyCuanAirdrop)!
